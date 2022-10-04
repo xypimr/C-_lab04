@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task01", "task01\task01.csproj", "{3ACEFBDD-19DB-4BB4-BBED-5D6883F57372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task02", "task02\task02.csproj", "{7093ECBF-715D-4C5C-95E3-745A246676A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task03", "task03\task03.csproj", "{5714CF09-616A-4024-850A-C45F042483AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACEFBDD-19DB-4BB4-BBED-5D6883F57372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACEFBDD-19DB-4BB4-BBED-5D6883F57372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACEFBDD-19DB-4BB4-BBED-5D6883F57372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACEFBDD-19DB-4BB4-BBED-5D6883F57372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7093ECBF-715D-4C5C-95E3-745A246676A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7093ECBF-715D-4C5C-95E3-745A246676A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7093ECBF-715D-4C5C-95E3-745A246676A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7093ECBF-715D-4C5C-95E3-745A246676A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5714CF09-616A-4024-850A-C45F042483AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5714CF09-616A-4024-850A-C45F042483AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5714CF09-616A-4024-850A-C45F042483AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5714CF09-616A-4024-850A-C45F042483AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
